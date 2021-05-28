@@ -1,1 +1,1 @@
-# zomoto-home
+# zomato-home
